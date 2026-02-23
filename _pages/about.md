@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a final-year Computer Science BSc student at the Technical University of Munich (TUM) and a scholar of the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes). Currently, I am completing an internship at Inria in Montpellier, where I am writing my Bachelor's thesis under the supervision of Aurélien Bellet. I am deeply interested in Differential Privacy (DP) and its applications in building trustworthy machine learning models.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I spent a year as a Visiting Undergraduate Student at Harvard University. Alongside my academic work, I have also gained applied industry experience as a Research Engineering Intern at Oblivious. Outside of my research, you can find me playing soccer or learning Mandarin Chinese.
