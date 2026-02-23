@@ -457,13 +457,6 @@ ninja.data = [{
           window.open("mailto:%64%61%76%69%64%6D%69%63%68%61%65%6C%65%72%62@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/david-erb-4bb297230", "_blank");
-        },
-      },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
