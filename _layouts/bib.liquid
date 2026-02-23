@@ -168,7 +168,7 @@
     {% if entry.year %}
       {% unless entry.journal %}
         {% capture entryyear %}{{ " " }}{{ entry.year }}{% endcapture %}
-      {% endif %}
+      {% endunless %}
     {% endif %}
     {% if entry.location %}
       {% capture entrytype %}{{ entrytype }}{{ ", " }}{{ entry.location }}{% endcapture %}
