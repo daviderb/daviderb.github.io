@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Check out our new [blog post](https://desfontain.es/blog/index.html) on auditing differential privacy software!  :sparkles: 
+Check out our new [blog post](https://desfontain.es/blog/privacy-bugs.html) on auditing differential privacy software!  :sparkles: 
