@@ -1,9 +1,13 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-07-08'
 papers:
   A_jMeAYAAAAJ:M3ejUd6NZC8C:
     citations: 3
     title: 'Privacy in theory, bugs in practice: Grey-box auditing of differential privacy libraries'
+    year: '2026'
+  A_jMeAYAAAAJ:aqlVkmm33-oC:
+    citations: 0
+    title: 'Lumberjack: Better Differentially Private Random Forests through Heavy Hitter Detection in Trees'
     year: '2026'
   A_jMeAYAAAAJ:qxL8FJ1GzNcC:
     citations: 0
