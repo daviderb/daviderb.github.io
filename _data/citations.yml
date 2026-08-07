@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-08-07'
 papers:
   A_jMeAYAAAAJ:M3ejUd6NZC8C:
     citations: 3
@@ -10,6 +10,6 @@ papers:
     title: 'Lumberjack: Better Differentially Private Random Forests through Heavy Hitter Detection in Trees'
     year: '2026'
   A_jMeAYAAAAJ:qxL8FJ1GzNcC:
-    citations: 0
+    citations: 1
     title: 'Lumberjack: Better Differentially Private Random Forests through Heavy Hitter Detection in Trees'
     year: '2026'
