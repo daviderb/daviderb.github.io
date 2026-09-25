@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science BSc student @ TUM #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Computer Science Master's student @ ETH #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a final-year Computer Science BSc student at the [Technical University of Munich (TUM)](https://www.tum.de/en/) and a scholar of the [German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)](https://www.studienstiftung.de/en). Currently, I am completing an internship in the [PreMeDICaL Team](https://team.inria.fr/premedical/) at [Inria](https://inria.fr/en), where I am writing my Bachelor's thesis under the supervision of [Aurélien Bellet](https://researchers.lille.inria.fr/abellet/). I am deeply interested in Differential Privacy (DP) and its applications in building trustworthy machine learning models.
+I am a Computer Science Master's student at [ETH Zurich](https://ethz.ch/en.html). I completed my BSc in Computer Science at the [Technical University of Munich (TUM)](https://www.tum.de/en/) in 2026, and am a scholar of the [German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)](https://www.studienstiftung.de/en) throughout my studies. During my Bachelor's, I completed a research internship in the [PreMeDICaL Team](https://team.inria.fr/premedical/) at [Inria](https://inria.fr/en), where I wrote my Bachelor's thesis under the supervision of [Aurélien Bellet](https://researchers.lille.inria.fr/abellet/). I am deeply interested in Differential Privacy (DP) and its applications in building trustworthy machine learning models.
 
-Previously, I spent a year as a Visiting Undergraduate Student at [Harvard University](https://www.harvard.edu/). Alongside my academic work, I have also gained applied industry experience as a Research Engineering Intern at [Oblivious](https://www.oblivious.com/). Outside of my research, you can find me playing soccer or learning Mandarin Chinese.
+Previously, I spent a year as a Visiting Undergraduate Student at [Harvard University](https://www.harvard.edu/). Alongside my academic work, I also gained applied industry experience as a Research Engineering Intern at [Oblivious](https://www.oblivious.com/). Outside of my research, you can find me playing soccer or learning Mandarin Chinese.
